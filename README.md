@@ -1,15 +1,19 @@
 ### About Myself (Tech-field)
 ---
-Hey. This is Mohian.<br> 
+Hey. This is Mohian.<br>
+!![Courage](https://media2.giphy.com/media/vIEJcdeRAK1Es/200.webp?cid=ecf05e47n8ljlw3pag7mrrut7s8rnaadm1n6z9xeagmb2d7b&rid=200.webp)
 
 At first about me:<br>
 - A problem solver.<br>
 
-An enthusiastic being for Data science, Data engineering and Machine Learning as well. Have experience in C,HTML5, CSS, JSON, .Net framework,C#, Tensorflow and Python3. Currently learning GO.<br>
+Interested in Data science, Data engineering and Machine Learning as well. Have experience in C,HTML5, CSS, JSON, .Net framework,C#, Tensorflow and Python3. Currently learning GO.<br>
 
 
-- 🔭 I’m currently working on ... [ChatBot](https://github.com/Mohian/ChatBot/blob/master/README.md "Readme")
-- 👯 I’m looking to collaborate on ... [RTT](https://github.com/Mohian/RTT/blob/master/README.md "Readme") 
+<!--
+
+
+🔭 I’m currently working on ... [ChatBot](https://github.com/Mohian/ChatBot/blob/master/README.md "Readme")
+- 👯 I’m looking to collaborate on ... [RTT](https://github.com/Mohian/RTT/blob/master/README.md "Readme") -->
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
